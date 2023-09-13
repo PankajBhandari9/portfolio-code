@@ -49,7 +49,7 @@ const FirstPage = () => {
                                 ]}
                             />
                         </Typography>
-                        <a href="https://drive.google.com/file/d/1O5MXcOoBDIskoVCSptyT5iITrmUk1gR-/view?usp=sharing" target="_blank" className={classes.link}>
+                        <a href="https://drive.google.com/file/d/1_BjFSKMSJVk9jQ84PPhSDznsfdS3S5xa/view?usp=sharing" target="_blank" className={classes.link}>
                             <Button variant='contained' className={classes.btn}>Download CV</Button>
                         </a>
                     </ul>
