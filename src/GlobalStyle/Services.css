@@ -1,0 +1,26 @@
+/* ....... */
+.headingServices{
+    position: relative;
+    z-index: 10; 
+    color:whitesmoke;
+    top:1rem;
+    left:6rem;
+    font-size: 22px;
+    font-weight: 500;
+    display: inline-block;
+}
+.headingServices::before{
+    content: "";
+    width: 80px;
+    height: 2px;
+    display: block;
+    position: relative;
+    background-color: #eb83f8;
+    top: 13px;
+    right:90px;
+
+}
+.angularIcon{
+    background-color: white;
+    border-radius: 100%;
+}

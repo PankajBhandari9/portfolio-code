@@ -1,0 +1,24 @@
+#contact{
+    margin-top: 2rem;
+    background-color: #e6e6e6;
+}
+.headingContact{
+    position: relative;
+    z-index: 10; 
+    color:rgb(0, 0, 0);
+    left:5.8rem;
+    font-size: 22px;
+    font-weight: 500;
+    width: fit-content;
+}
+.headingContact::before{
+    content: "";
+    width: 80px;
+    height: 2px;
+    display: block;
+    position: relative;
+    background-color: #eb83f8;
+    top: 13px;
+    right:90px;
+
+}

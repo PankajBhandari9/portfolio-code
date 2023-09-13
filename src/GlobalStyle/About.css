@@ -1,0 +1,46 @@
+/* ....... */
+.headingAbout {
+    position: relative;
+    z-index: 10;
+    color: whitesmoke;
+    top: 1rem;
+    left: 6rem;
+    font-size: 22px;
+    font-weight: 500;
+    display: inline-block;
+}
+
+.headingAbout::before {
+    content: "";
+    width: 80px;
+    height: 2px;
+    display: block;
+    position: relative;
+    background-color: #eb83f8;
+    top: 13px;
+    right: 90px;
+
+}
+
+#about {
+    margin-top: 2rem;
+}
+
+.icons {
+    font-size: 20px;
+    margin: 10px 10px 10px 0px;
+    color: white;
+}
+
+.icons:hover {
+    color: #eb83f8
+}
+
+.linkIcon {
+    text-decoration: none;
+    color:whitesmoke;
+    margin: 20px;
+}
+.linkIcon:hover{
+    color:#eb83f8;
+}
