@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/portfolio-code/static/css/main.8c51ab3f.css",
+    "main.js": "/portfolio-code/static/js/main.9e02bae8.js",
+    "static/media/reactSS.png": "/portfolio-code/static/media/reactSS.98dd5bca6ed1aaf20e1b.png",
+    "static/media/watch.jpg": "/portfolio-code/static/media/watch.2a6a5939646c856e0b69.jpg",
+    "static/media/tinder.png": "/portfolio-code/static/media/tinder.1c197b9170872e7e8109.png",
+    "index.html": "/portfolio-code/index.html",
+    "main.8c51ab3f.css.map": "/portfolio-code/static/css/main.8c51ab3f.css.map",
+    "main.9e02bae8.js.map": "/portfolio-code/static/js/main.9e02bae8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c51ab3f.css",
+    "static/js/main.9e02bae8.js"
+  ]
+}
